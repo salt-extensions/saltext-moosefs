@@ -1,4 +1,4 @@
-# salt-moosefs
+# saltext-moosefs
 
 Module for gathering and managing information about MooseFS
 
